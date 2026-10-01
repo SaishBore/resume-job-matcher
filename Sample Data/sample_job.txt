@@ -1,0 +1,8 @@
+Fresher Generative AI Engineer
+
+We are hiring a graduate to help build LLM-powered applications and chatbots.
+You should be strong in Python, including NumPy and Pandas, and know standard SQL.
+You should understand NLP basics such as tokenization and embeddings, and the basic Transformer architecture.
+Exposure to LangChain or LlamaIndex is expected, along with a vector database such as ChromaDB, FAISS or Pinecone.
+You should use Git and GitHub for collaboration and have a GitHub repository with at least one working Generative AI project.
+Hackathon or Kaggle participation is a plus.

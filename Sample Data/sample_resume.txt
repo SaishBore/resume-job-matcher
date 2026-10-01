@@ -1,0 +1,12 @@
+ASHA PATIL
+asha.patil@example.com | github.com/ashapatil
+
+SUMMARY
+Final-year IT student interested in machine learning.
+
+PROJECTS
+Sales Dashboard: cleaned 50,000 rows of sales data with Python, Pandas and MySQL, and built a Power BI dashboard.
+Spam Classifier: trained a scikit-learn model with 94% accuracy on 5,000 emails using NLP and TF-IDF.
+
+SKILLS
+Python, SQL, MySQL, Pandas, NumPy, Matplotlib, Power BI, Excel, Git, GitHub, Scikit-learn
